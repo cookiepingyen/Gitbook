@@ -1,4 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [Page 1](page-1.md)
+
+## SQL
+
+* [1.基本語法](sql/1.-ji-ben-yu-fa.md)
